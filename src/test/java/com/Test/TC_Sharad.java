@@ -1,9 +1,9 @@
 package com.Test;
 
-public class TC_02_Sharad {
+public class TC_Sharad {
 
 	public static void main(String[] args) {
-
+		
 		char c = 'A';
 		System.out.println(c);
 		
